@@ -1,2 +1,11 @@
-# presence-codewars
-Competitive Programming for data structure and algorithms. 
+# Presence Codwars
+Competitive programming for data structure and algorithms. 
+
+### Rules for submission
+- You can submit your solutions using TypeScript/JavaScript/Python/C++/C# or Java.
+- Push your solution to your own branch
+
+### Todo
+  - [ ] Setup folder structure
+  - [ ] Add rules for contribution
+
